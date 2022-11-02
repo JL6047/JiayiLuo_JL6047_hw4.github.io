@@ -1,0 +1,68 @@
+### About Me
+
+Jiayi (Eric) Luo
+
++1 925-998-0896 | jl6047@cumc.columbia.edu
+
+EDUCATION
+
+Columbia University, Mailman School of Public Health				            New York, NY
+
+MPH. in Biostatistics									    Sep 2021-Mar 2023
+
+•	Certificate: Comparative Effectiveness Outcome Research
+
+•	GPA: 3.63/4.0
+
+•	Relevant Courses: Statistical Computing with SAS, Applied Regression, Analysis of Categorical Data, Decision Analysis on Clinical Trials, Research Methods and Application, Data Science, SQL
+
+University of California, Irvine                                                                                                               Irvine, CA
+
+B.A. in Business Administration	& B.S. in Mathematics                	                                             Sep 2016-Jun 2021
+
+•	Relevant Courses: Statistical Method of Finance, Programming Numeric Analysis, Probability
+Related EXPERIENCE
+Columbia University Mailman School of Public Health				            New York, NY
+Research Assistant @ Dr.Norman Kleiman’s Lab					     July 2022 –(Current)
+
+•	Covid-19 Research with R programming, comparing lab on research on RNA sequencing
+
+•	Related experience in R, specifically DESeq2, EdgeR
+Cello Therapeutics      	                                                                           		   	            San Diego, CA
+Data Analyst; Research Assistant (Intern)	     	                                                                   Jun-July 2022
+
+•	Donor data collection, compiling and analysis on Apheresis Platelet Units on processed platelet membranes 
+
+•	Compiling and analysis on bioanalytical assay results with SAS
+
+•	Created databases for donor and lab results 
+Globalization Index Project of China’s Overseas Enterprises                                      	                    Irvine, CA
+Remote Research, Zhejiang Univ collaborated with Cambridge (U.K.) Ctr for Chinese Mgmt    Jul 2020- Apr 2021
+
+•	The research aimed to create an index for international Chinese Entrepreneurs regarding their capability of enterprises, globalization etc. 
+
+•	Used Excel and Python to performed inductive analysis, case analysis, and index analysis to build the Enterprise Globalization index and the Overseas Media Influence index model.
+Smart Alpha Asset Management Co., Ltd.      	                                                                           Shenzhen, China
+Quantitative Analyst (Remote Intern)  		     	                                                          Jun 2020-Sep 2020
+
+•	Researched domestic and overseas financial reports, converted investment strategies into alpha
+
+•	Related experience of commodity futures, ISON intraday & CS Quants trading platforms
+
+•	Conducted regression analysis with SQL and make predictions on stock prices and trends
+Chengdu Tai ZhongHe Investment Co., Ltd.  	                                                                            Chengdu, China
+Investment Consultant (Intern)            		     	                                                          Jun 2018-Aug 2018
+
+•	Went through venture capital and private equity tours across investment processes
+
+•	Used Excel and SQL to create graphical representations and data charts for analytical purposes
+Shenzhen Lehigh Hongking Securities Co., Ltd.                                                                         Shenzhen, China
+Stock Investment Analyst (Intern)            		     	                                                          Jun 2017-Aug 2017
+
+•	Operated the FGS quantitative unified access platform to deal with TIT (targeted intelligent trading), i.e., intraday share price index futures, CTA commodity portfolio trading
+
+•	Learned basics about the trading systems of China’s share market (Shanghai & Shenzhen)
+
+SKILLS
+Languages: English(full professional proficency) ; Mandarin(Native Proficiency)
+Technical Skills: Microsoft Word, PowerPoint, Excel, MATLAB, Python, SAS, SQL,R,Mathematica
